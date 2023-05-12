@@ -14,9 +14,9 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = false 
+global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "KvRiel_Bot" //namabot kalian
-global.ownername= "KvRiel" //nama kalian
-global.myweb ="https://instagram.com/kvrielstore" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@kvriel" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/kvrielstore" //bebas
-global.email = "kvrielstore@gmail.com" //bebas
+global.botname = "RubeCone-Bot" //namabot kalian
+global.ownername= "B16" //nama kalian
+global.myweb ="-" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@RubyCone-Samp" //bebas asal jan hapus
+global.myweb2 = "-" //bebas
+global.email = "-" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['601123031838'] //premium user
-global.owner = ["6281242209942","601123031838"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6281242209942" // nomor wa kalian
-global.ownernomerr = "+6281242209942" //nmr wa kalian
+global.premium = ['628981614707'] //premium user
+global.owner = ["628981614707","-"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "628981614707" // nomor wa kalian
+global.ownernomerr = "+628981614707" //nmr wa kalian
 global.thumbnail = "./image/logo.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "-" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© KvRiel-Bot' //sticker wm ubah
-global.author = 'KvRiel-Code' //sticker wm ganti nama kalian
+global.packname = '©RubyCone-Bot' //sticker wm ubah
+global.author = 'B16-United' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
